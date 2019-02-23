@@ -1,4 +1,4 @@
-﻿# Pytorch模型训练实用教程
+﻿# 转Pytorch模型训练实用教程
 ![Image text](https://github.com/tensor-yu/PyTorch_Tutorial/blob/master/Data/cover.png)
 
 # 1.简介
